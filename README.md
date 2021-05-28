@@ -1,18 +1,24 @@
 # Student Information System
 Author: Michelle Loh
 
+---
+
 ## Summary
 
 This system uses a singly linked list to store and organize related to student information.  It allow operation such as adding new student’s information as well searching, deleting, and displaying the student information.
 
 The system uses:
-1. Object-Oriented Programming (struc, class and object)
-2. Multiple Inheritance
-3. Abstract Class (Template)
-4. Operator Overloading
+<ol>
+    <li>Object-Oriented Programming (struc, class and object)</li>
+    <li>Multiple Inheritance</li>
+    <li>Abstract Class (Template)</li>
+    <li>Operator Overloading</li>
+</ol>
+<p align = "center">
+    <img src = "Output.png" alt = "Output">
+</p>
 
 ---
-
 ## Linked List Operations
 1.	The student information should consist as follows:
     - Student name
@@ -49,6 +55,3 @@ The system uses:
     </ul>
 
 5.	Search/Retrieve based on user input 
- 
-6.	Display the output should be displayed as follows:
-    
